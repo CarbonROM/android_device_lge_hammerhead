@@ -2,14 +2,13 @@
  {
    "repository":  "LineageOS/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
-   "branch":      "cm-14.1",
-   "remote":      "github"
+   "revision":      "cm-14.1",
+   "remote":      "gh"
  },
  {
    "repository":  "DirtyUnicorns/android_hardware_qcom_msm8x74",
    "target_path": "hardware/qcom/msm8x74",
-   "branch":      "n",
-   "remote":      "github"
+   "revision":      "n",
+   "remote":      "gh"
  }
 ]
-
