@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5af74547_bdb85f2b",
+        "filename": "carbon_hammerhead.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2017-02-19T01:42:12Z",
+      "side": 1,
+      "message": "wont work. Properpty overrides cant contain spaces.\neither use your nick/username, or set the prop in a system.prop where spaces are ok.",
+      "revId": "c8aef516eff9da686072ce6c1df04b792aaeee77",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
+    }
+  ]
+}
